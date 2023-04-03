@@ -1,0 +1,3 @@
+Bundle-Name: liferay-index-searcher
+Bundle-SymbolicName: com.chberndt.liferay.search.index.searcher
+Bundle-Version: 1.0.0
